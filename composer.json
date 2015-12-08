@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/elastica-bundle",
+    "name": "wizkunde/elastica-bundle",
     "type": "symfony-bundle",
     "description": "Elasticsearch PHP integration for your Symfony2 project using Elastica",
     "keywords": ["doctrine2", "elastica", "elasticsearch", "mongodb", "propel", "search"],
@@ -17,7 +17,7 @@
         "symfony/console": "~2.1|~3.0",
         "symfony/form": "~2.1|~3.0",
         "symfony/property-access": "~2.3|~3.0",
-        "ruflin/elastica": "~2.1",
+        "ruflin/elastica": "~3.0",
         "psr/log": "~1.0"
     },
     "require-dev":{
